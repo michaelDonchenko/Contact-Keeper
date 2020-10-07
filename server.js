@@ -4,6 +4,9 @@ const connectDB = require('./config/db')
 const app = express()
 const path = require('path')
 
+const dotenv = require('dotenv');
+dotenv.config()
+
 //init middleware
 app.use(express.json({extended: false}))
 

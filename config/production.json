@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mike:mike12345@nodeapi.novfa.mongodb.net/contactKeeperDB?retryWrites=true&w=majority",
+ 
   "jwtSecret": "secret"
 }
