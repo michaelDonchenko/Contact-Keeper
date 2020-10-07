@@ -1,0 +1,20 @@
+
+.professional__badge {
+  background-color: #8675a9 !important;
+}
+
+.personal__badge {
+  background-color: #c3aed6 !important;
+}
+
+.myCard {
+  width: 30rem;
+  margin: 10px 0 10px 0;
+}
+
+
+@media only screen and (max-width: 530px) {
+  .myCard {
+    max-width: 100%;
+  }
+}
